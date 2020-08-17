@@ -1,4 +1,4 @@
-<h2 style="text-align: center"> **Hello Hello galera** :smile: </h2>
+## **Hello Hello galera** :smile:
 
 ---
 
